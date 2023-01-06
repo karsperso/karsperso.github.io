@@ -1,0 +1,42 @@
+experiences:
+
+- place: "Fano Labs, Hong Kong"
+  time: "Dec 2021 - Dec 2022"
+  title: "Research Engineer"
+  subtitle: "Speech Team"
+  category: "work"
+
+- place: "University of Edinburgh, UK"
+  time: "Sep 2020 – Sep 2021"
+  title: "Master of Science"
+  subtitle: "Speech and Language Processing"
+  category: "school"
+  
+- place: "Dialpad, Canada"
+  time: "May 2021 - Aug 2021"
+  title: "AI Research Contractor"
+  category: "work"
+
+- place: "University of Tübingen, Germany"
+  time: "Oct 2017 – Jun 2020"
+  title: "Bachelor of Arts"
+  subtitle: "Computational Linguistics"
+  category: "school"
+
+- place: "IBM Research and Development, Germany"
+  time: "Aug 2019 – Jan 2020"
+  title: "Research Internship"
+  subtitle: "Department of IBM Cloud and Cognitive Software"
+  category: "work"
+
+- place: "CLARIN Centre Tübingen, Germany"
+  time: "Apr 2019 – Aug 2019"
+  title: "Research Assistant"
+  subtitle: "CLARIN-D"
+  category: "work"
+
+- place: "University of Tübingen, Germany"
+  time: "Nov 2018 – Apr 2019"
+  title: "Research Assistant"
+  subtitle: "Department of Quantitative Linguistics"
+  category: "work"
