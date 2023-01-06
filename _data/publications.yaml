@@ -4,5 +4,5 @@ papers:
     authors: "Nianheng Wu, Eric DeMattos, <b>Kwok Him So</b>, Pin-zhen Chen, and Çağrı Çöltekin"
     venue: "ACL'19: Association for Computational Linguistics. 2019."
     paper_pdf: "/assets/publications/2019_lang_discrimination/2019_lang_discrimination.pdf"
-    selected: n
+    selected: y
 
